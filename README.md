@@ -150,7 +150,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Built by **Dwarkesh Sharma**
+Built by **Dwarkesh**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dwarkesh--code-181717?logo=github&logoColor=white)](https://github.com/Dwarkesh-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dwarkesh--code-0077b5?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dwarkesh-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dwarkesh--code-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwarkesh-code)
+[![Discord](https://img.shields.io/badge/Discord-dwarkesh__code-5865f2?logo=discord&logoColor=white)](https://discord.com/users/dwarkesh_code)
